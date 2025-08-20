@@ -15,7 +15,7 @@ class AnotacoesSecretas:
             self.menu()
         else:
             print("Senha ou número da conta invalido")
-            return AnotacoesSecretas()
+            return self.ativo()
 
     def menu(self):
         while True:
@@ -31,7 +31,7 @@ class AnotacoesSecretas:
 
                =========================
                    """)
-            opcao = input('').lower()
+            opcao = input('')#.lower()
 
             if opcao == '1':
                 if len(self.__anotacoes) >= 10:
