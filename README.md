@@ -5,7 +5,7 @@ Este repositório contém três mini-projetos desenvolvidos em Python, aplicando
 Os desafios foram criados para praticar conceitos fundamentais como classes, atributos privados, métodos de acesso e validações.
 
 
-###🔑 Desafio 1 – Cofre Digital
+<h2>🔑 Desafio 1 – Cofre Digital<\h2>
 
 Descrição:
 Simulação de um cofre digital com senha e funcionalidades bancárias simples.
