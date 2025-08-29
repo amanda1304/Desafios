@@ -21,7 +21,7 @@ Funcionalidades:
 🚪 Sair do sistema
 
 
-###🏦 Desafio 2 – Caixa Eletrônico
+🏦 Desafio 2 – Caixa Eletrônico
 
 Descrição:
 Evolução do cofre digital, agora com novas regras de segurança e funcionalidades.
@@ -33,7 +33,7 @@ Possibilidade de trocar a senha informando a senha atual corretamente.
 Exigir número da conta além da senha.
 
 
-###📓 Desafio 3 – Anotações Secretas
+📓 Desafio 3 – Anotações Secretas
 
 Descrição:
 Sistema de anotações protegidas por senha, garantindo que apenas usuários autenticados acessem suas informações.
